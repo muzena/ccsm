@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
+# Croatian translation for ccsm.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# gogo <trebelnik2@gmail.com>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ccsm 0.8.14\n"
 "Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/ccsm/issues\n"
 "POT-Creation-Date: 2017-05-04 15:17+0300\n"
-"PO-Revision-Date: 2017-07-28 12:56+0200\n"
+"PO-Revision-Date: 2017-07-28 13:05+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -141,7 +141,7 @@ msgstr "Omogući ove dodatke"
 
 #, python-format
 msgid "<b>%(plugin)s</b> requires the plugin <b>%(require)s</b>."
-msgstr "<b>%(plugin)s</b> zahtijeva dodatak <b>%(require)s</b>"
+msgstr "<b>%(plugin)s</b> zahtijeva dodatak <b>%(require)s</b>."
 
 #, python-format
 msgid "Enable %(require)s"
@@ -153,7 +153,7 @@ msgid ""
 "by the plugins <b>%(plugin_list)s</b>."
 msgstr ""
 "<b>%(plugin)s<b/> pruža značajku <b>%(feature)s<b/> koja je potrebna "
-"dodacima <b>%(plugin_list)s</b>"
+"dodacima <b>%(plugin_list)s</b>."
 
 msgid "Disable these plugins"
 msgstr "Onemogući ove dodatke"
@@ -164,7 +164,7 @@ msgstr "Nemoj onemogućiti %(plugin)s"
 
 #, python-format
 msgid "<b>%(plugin)s</b> is required by the plugins <b>%(plugin_list)s</b>."
-msgstr "<b>%(plugin_list)s</b> je potreban ovim dodacima <b>%(plugin)s</b>"
+msgstr "<b>%(plugin_list)s</b> je potreban ovim dodacima <b>%(plugin)s</b>."
 
 msgid "General"
 msgstr "Općenito"
